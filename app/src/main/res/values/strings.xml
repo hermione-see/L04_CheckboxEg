@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">L04 Demo Checkbox Example</string>
+    <string name="check">Check</string>
+    <string name="discount">Discount</string>
+</resources>
